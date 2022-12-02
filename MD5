@@ -1,0 +1,15 @@
+2193e8dad8fb28974debc3a32ff05a77 *DESCRIPTION
+0e75d8205288b10d12f68c117138a2e9 *NAMESPACE
+bddfa10c925686203ba6b47979ebeed7 *NEWS.md
+feb6dfbe3dd89402aa1c551115b5061b *R/fetch_appsflyer.R
+0c60f04aee891def6b8d1ecd9e476e86 *R/my_appsflyer_data.R
+b4cd34a1405a7cf730200672c1b1d559 *README.md
+faa7af1f7e33a44b658b735e629d90e6 *build/vignette.rds
+4ce3c7f0ac5001872b938483de2e6b16 *data/my_appsflyer_data.RData
+1ef8415b010e5ea47b3b7f014925e654 *inst/doc/tutorial.R
+d48f7c99b0da239fcfd60a12c5eb8196 *inst/doc/tutorial.Rmd
+1a812ce64b54ee2924a85e712e686034 *inst/doc/tutorial.html
+e012a97103d69d1ecb2cd9c0e76e149f *man/fetch_appsflyer.Rd
+c97ad786d35d6dae5054609d53a32192 *man/my_appsflyer_data.Rd
+4ce3c7f0ac5001872b938483de2e6b16 *vignettes/my_appsflyer_data.RData
+d48f7c99b0da239fcfd60a12c5eb8196 *vignettes/tutorial.Rmd
